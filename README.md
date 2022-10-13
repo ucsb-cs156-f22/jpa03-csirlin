@@ -5,8 +5,9 @@ Codecov Badge
 [![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-csirlin/branch/main/graph/badge.svg?token=FTMRMC9XOY)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-csirlin)
 
 Storybook is here:
-* Production: <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs/>
-* QA:  <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs-qa/>
+
+* Production: https://ucsb-cs156-f22.github.io/jpa03-csirlin-docs/
+* QA:  https://ucsb-cs156-f22.github.io/jpa03-csirlin-docs-qa/
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
