@@ -4,6 +4,10 @@ Codecov Badge
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-csirlin/branch/main/graph/badge.svg?token=FTMRMC9XOY)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-csirlin)
 
+This repo:
+
+* https://github.com/ucsb-cs156-f22/jpa03-csirlin
+
 Storybook is here:
 
 * Production: https://ucsb-cs156-f22.github.io/jpa03-csirlin-docs/
